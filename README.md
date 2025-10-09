@@ -51,7 +51,7 @@ This project analyzes NYPD Arrests(2021) data to uncover trends in crime, demogr
 
 ## 6. Deliverables
 - 📑 [Final Report](report/final_report.pdf)  
-- 📊 [Visualizations](https://public.tableau.com/)  
+- 📊 [Visualizations](visualizations/)  
 - 📓 [Jupyter Notebooks](notebooks/)  
 
 ---
