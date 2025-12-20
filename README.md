@@ -32,9 +32,7 @@ This project analyzes NYPD Arrests(2021) data to uncover trends in crime, demogr
    - Built charts and heatmaps in to summarize findings  
 
 5. **Dashboard**  
-   ![Tableau Dashboard Preview](visualizations/nypd_arrests_dashboard.png)
-
----
+   [Tableau Dashboard Preview](./visualizations/nypd_arrests_dashbaord.png)
 
 ## 4. Key Insights
 - Most Arrests: Most arrests occured in Brooklyn and Manhattan.
