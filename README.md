@@ -31,6 +31,9 @@ This project analyzes NYPD Arrests(2021) data to uncover trends in crime, demogr
 4. **Visualizations**  
    - Built charts and heatmaps in to summarize findings  
 
+5. **Dashboard**  
+   ![Tableau Dashboard Preview](visualizations/nypd_arrests_dashboard.png)
+
 ---
 
 ## 4. Key Insights
@@ -52,6 +55,7 @@ This project analyzes NYPD Arrests(2021) data to uncover trends in crime, demogr
 ## 6. Deliverables
 - 📑 [Final Report](report/final_report.pdf)  
 - 📊 [Visualizations](visualizations/)  
+- 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/justin.miller2165/viz/NYPDArrrests2021Analysis/Dashboard1)
 - 📓 [Jupyter Notebooks](notebooks/)  
 
 ---
